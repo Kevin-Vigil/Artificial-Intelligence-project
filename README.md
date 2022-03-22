@@ -1,4 +1,6 @@
-Part II: Programming (100 points)
+Artificial Intelligence Project:
+Created by Fawaz Ahmed and Kevin Vigil
+
 In this problem, you will implement a CSP solver that takes exactly three arguments from the
 command line:
 1. The path to a . var file. The file contains the variables in the CSP to be solved and their
