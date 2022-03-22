@@ -20,6 +20,8 @@ enforce consistency.
 Note:
 • The first two arguments are the paths to the .var file and the .con file. Do not assume that
 the .var file and the .con file are in the same directory as your code files.
+
+
 • Whenever the solver needs to choose a variable during the search process, apply the most
 constrained variable heuristic, breaking ties using the most constraining variable heuristic.
 If more than one variable remains after applying these heuristics, break ties alphabetically.
