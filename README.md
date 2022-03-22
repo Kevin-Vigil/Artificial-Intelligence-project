@@ -3,7 +3,7 @@ Created by Fawaz Ahmed and Kevin Vigil
 
 Date created: March 18th, 2022
 
-In this problem, you will implement a CSP solver that takes exactly three arguments from the
+In this problem, we will implement a CSP solver that takes exactly three arguments from the
 command line:
 1. The path to a . var file. The file contains the variables in the CSP to be solved and their
 domains. Each line of the file contains a variable (represented by a single letter), followed
