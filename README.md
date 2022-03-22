@@ -1,5 +1,6 @@
 Artificial Intelligence Project:
 Created by Fawaz Ahmed and Kevin Vigil
+
 Date created: March 18th, 2022
 
 In this problem, you will implement a CSP solver that takes exactly three arguments from the
