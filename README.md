@@ -41,5 +41,6 @@ main {1, 2}, and constraint Y=Z. The branches visited in the search tree without
 should be written as:
 1. Z=1, X=0, Y=0 failure
 2. Z=1, X=0, Y=1 solution
+
 However, if forward checking is applied, the output should be:
 1. Z=1, Y=1, X=0 solution
